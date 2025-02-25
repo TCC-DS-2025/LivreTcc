@@ -1,2 +1,0 @@
-# LivreTcc
-Repositório do TCC
